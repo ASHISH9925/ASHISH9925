@@ -83,12 +83,10 @@ Implemented the LSB algorithm balancing payload capacity and imperceptibility, w
 
 ### My Github Snake (:
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ASHISH9925&style=flat-square&color=blue" alt="Profile Views" />
-
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg">
-    <img src="./dist/github-snake.svg" alt="Snake animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ASHISH9925/ASHISH9925/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ASHISH9925/ASHISH9925/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ASHISH9925/ASHISH9925/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
